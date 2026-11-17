@@ -1,0 +1,11 @@
+{
+  "title": "Provash Shield | প্রবাস শিল্ড",
+  "description": "Check a recruiting agency and a job offer before you pay.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
