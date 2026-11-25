@@ -91,7 +91,7 @@ announcements. Every result shows its source and date. The registry is a dated s
 - The repository is private. Do not commit `.env`, `shield.db` or real datasets.
 
 ## Team
-Member A: frontend and UX. Member B: backend and data. Member C: visa image check and AI. Advisor: [name].
+Member Fahim Morshed: frontend and UX. Member Md Shafin Ahmed: backend, api and DATA. Member Rakibul Hasan: Teating.
 
 ## Roadmap
 Real agency data and daily refresh, offer check, community reports, Bangla voice input, evaluation on a test set,
