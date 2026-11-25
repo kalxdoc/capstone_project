@@ -64,6 +64,8 @@ python -m uvicorn main:app --reload --port 8000
 ```
 Frontend, from `frontend/`:
 ```
+
+$env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User")
 pnpm install
 pnpm dev
 ```
