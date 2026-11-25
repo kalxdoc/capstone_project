@@ -49,6 +49,16 @@ python -m pip install -r requirements.txt
 python seed_demo.py
 python -m pytest -v
 python -m uvicorn main:app --reload --port 8000
+
+
+
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+
+
+python -m pytest -v
+python -m pip install -r requirements.txt
+python -m uvicorn main:app --reload --port 8000
 ```
 Frontend, from `frontend/`:
 ```
