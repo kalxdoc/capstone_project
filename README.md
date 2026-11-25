@@ -51,10 +51,12 @@ python -m pytest -v
 python -m uvicorn main:app --reload --port 8000
 
 
+#if not work then this 
+
+
 
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-
 
 python -m pytest -v
 python -m pip install -r requirements.txt
